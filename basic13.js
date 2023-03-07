@@ -1,4 +1,6 @@
 // Basic 13 algorithms assignment
+
+
 // print all integers from 1-255
 function printNumbers() {
   for (var i = 1; i <= 255; i++) {
